@@ -3,4 +3,4 @@ Allow: /index.html
 Allow: /about.html
 Allow: /comeingsoon.html
 
-Sitemap: /sitemap.xml
+Sitemap: https://donediligently.github.io/sitemap.xml
