@@ -1,6 +1,6 @@
 User-agent: *
 Allow: https://donediligently.github.io
-Allow: https://donediligently.github.io/index.html
-Allow: https://donediligently.github.io/about.html
+Allow: /index.html
+Allow: /about.html
 
 Sitemap: https://donediligently.github.io/sitemap.xml
