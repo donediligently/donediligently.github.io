@@ -1,0 +1,5 @@
+User-agent: *
+Allow: https://donediligently.github.io/index.html
+Allow: https://donediligently.github.io/about.html
+
+Sitemap: https://donediligently.github.io/sitemap.xml
